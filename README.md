@@ -1,7 +1,9 @@
+FP Scala Neural Network
+====
 
-
-Neural Network with Scala
+An implementation in Scala with FP style.
 
 Running
+-------
 
 To run the XOR example use 'sbt test'
